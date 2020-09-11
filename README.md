@@ -1,5 +1,5 @@
 # sample-Electron-app
-#How to use
+# How to use
 -- Clone or Download
 
 -- Go to directory
