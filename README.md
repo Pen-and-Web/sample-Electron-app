@@ -1,9 +1,9 @@
-# sample-ElectronJs-app
+# sample-Electron-app
 #How to use
 -- Clone or Download
 
 -- Go to directory
-cd sample-ElectronJs-app
+cd sample-Electron-app
 
 -- install dependencies
 npm install
